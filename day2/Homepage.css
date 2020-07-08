@@ -1,0 +1,113 @@
+.imagecontainer{
+    background: url('http://i.postimg.cc/76kStDSv/food-wallpaper.png');
+    border-style: solid;
+    border-color: thistle;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 60%;
+
+}
+
+#logo{
+    text-align: center;
+    font-weight: 100px;
+    color: red;
+    font-size: 90px;
+    background-color: rgb(243, 241, 241);
+    height: 150px;
+    width: 150px;
+    margin:auto;
+    border-radius: 70%;
+    margin-top: 2%;
+    
+}
+
+.text{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+    margin-top: 2%;
+}
+
+.location{
+    margin-top: 2%;
+    text-align: center;
+}
+.LocationDropdown{
+    width: 200px;
+    height: 45px;
+    border-radius: 3%;
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: none;
+}
+
+.place{
+    width: 350px;
+    height: 45px;
+    border-radius: 3%;
+    font-size: 16px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+    border: none;
+    margin-left: 0%;
+}
+
+.QuickHeading{
+    margin-left: 100px;
+    margin-top: 50px;
+    font-weight: bold;
+    color: #064283;
+    font-size: 30px;
+    line-height: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.QuickSubheading{
+    margin-left: 100px;
+    font-weight: normal;
+    color: gray;
+    font-size: 18px;
+}
+
+.tilecontainer{
+    background-color:whitesmoke;
+    height: 160px;
+    width: 360px;
+    margin-left: 70px;
+    margin-right: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 0 6px 12px black;
+    border-radius: 6%;
+    float: left;
+}
+
+.tilecomponent{
+    width: 50%;
+    float: left;
+}
+
+.componentheading{
+    
+    margin-top: 20px;
+    font-weight: bold;
+    color:#064283;
+    font-size: 18px;
+    margin-left: 50px;
+}
+
+.componentsubheading{
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+    font-size: 14px;
+    margin-right: 18px;
+}
+
+.footer{
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
