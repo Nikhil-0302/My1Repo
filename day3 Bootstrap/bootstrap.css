@@ -1,0 +1,48 @@
+
+.one{
+    height: 100px;
+    
+    background: red;
+
+}
+
+.two{
+    height: 100px;
+    
+    background: teal;
+}
+
+.three{
+    height: 100px;
+    
+    background: tan;
+}
+
+.four{
+    height: 100px;
+    
+    background:green}
+
+.five{
+    height: 100px;
+    
+    background: greenyellow
+}
+
+.six{
+    height: 100px;
+    
+    background:sandybrown
+}
+
+.but{
+    margin-bottom: 2%;
+}
+
+.mydrop{
+    margin-bottom: 1%;
+}
+
+.mynav{
+    background: #000000;;
+}
